@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chris Huynh
 - 🌱 Graduated UCI Full Stack Web Developer 
-- 💞️ Bachelor of Science Computer Science CSUF...
 - 📫 How to reach me at ceewizzhuhwin@gmail.com ...
 
 <!---
